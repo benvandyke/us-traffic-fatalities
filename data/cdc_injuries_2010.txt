@@ -1,0 +1,21 @@
+"Notes"	"Injury Mechanism & All Other Leading Causes"	"Injury Mechanism & All Other Leading Causes Code"	Deaths	Population	Crude Rate
+	"Cut/Pierce"	"GRINJ-001"	2598	308745538	0.8
+	"Drowning"	"GRINJ-002"	4521	308745538	1.5
+	"Fall"	"GRINJ-003"	26852	308745538	8.7
+	"Fire/Flame"	"GRINJ-004"	3127	308745538	1.0
+	"Hot object/Substance"	"GRINJ-005"	67	308745538	0.0
+	"Firearm"	"GRINJ-006"	31672	308745538	10.3
+	"Machinery"	"GRINJ-007"	590	308745538	0.2
+	"Motor Vehicle Traffic"	"GRINJ-008"	33687	308745538	10.9
+	"Other Pedal cyclist"	"GRINJ-009"	242	308745538	0.1
+	"Other Pedestrian"	"GRINJ-010"	1074	308745538	0.3
+	"Other land transport"	"GRINJ-011"	1524	308745538	0.5
+	"Other transport"	"GRINJ-012"	875	308745538	0.3
+	"Natural/Environmental"	"GRINJ-013"	1576	308745538	0.5
+	"Overexertion"	"GRINJ-014"	10	308745538	0.0 (Unreliable)
+	"Poisoning"	"GRINJ-015"	42917	308745538	13.9
+	"Struck by or against"	"GRINJ-016"	912	308745538	0.3
+	"Suffocation"	"GRINJ-017"	16362	308745538	5.3
+	"Other specified, classifiable Injury"	"GRINJ-018"	2002	308745538	0.6
+	"Other specified, not elsewhere classified Injury"	"GRINJ-019"	1973	308745538	0.6
+	"Unspecified Injury"	"GRINJ-020"	8230	308745538	2.7
